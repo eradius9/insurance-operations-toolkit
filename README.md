@@ -30,4 +30,4 @@ The CSV templates can be opened in Excel or Google Sheets. They have column head
 
 ## Background and authorship
 
-Prepared for Elius Mukiza Eradius, BSc Insurance and Risk Management. My background includes policy and client records at Kaderes and Britam, underwriting and claims support at BUMACO, field data collection and materials records at ESTIM. AI assisted with drafting these templates. This is a personal portfolio toolkit, not a report of a completed paid project.
+Prepared for Elius Mukiza Eradius, BSc Insurance and Risk Management. My background includes policy and client records at Kaderes and Britam, underwriting and claims support and field data collection at BUMACO, and materials records at ESTIM. AI assisted with drafting these templates. This is a personal portfolio toolkit, not a report of a completed paid project.
